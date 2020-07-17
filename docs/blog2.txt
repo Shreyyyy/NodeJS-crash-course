@@ -1,5 +1,3 @@
-
-NEW CHUNK
 Node.js Developer Roadmap
 
     Roadmap to becoming a Node.js developer in 2019:
@@ -2526,9 +2524,7 @@ Resources
             MariaDB
             MySQL
         Cloud Databases
-            
-NEW CHUNK
-CosmosDB
+            CosmosDB
             DynamoDB
         Search Engines
             ElasticSearch
