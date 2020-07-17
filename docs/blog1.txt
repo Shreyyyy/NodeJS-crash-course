@@ -1,0 +1,3714 @@
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
+
+Node.js Developer Roadmap
+
+    Roadmap to becoming a Node.js developer in 2019:
+
+Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become a Node.js developer. I made this chart as a tip for everyone who asks me, "What should I learn next a Node.js developer?"
+
+    Language: cn 中文 | gb English | :pt: Português
+
+Disclaimer
+
+    The purpose of this roadmap is to give you an idea about the landscape. The road map will guide you if you are confused about what to learn next, rather than encouraging you to pick what is hip and trendy. You should grow some understanding of why one tool would be better suited for some cases than the other and remember hip and trendy does not always mean best suited for the job
+
+Give a Star! star
+
+If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+Roadmap
+
+Roadmap
+Resources
+
+    Prerequisites
+        JavaScript
+        NPM
+        Node.js
+        ES6/ES7
+
+    General Development Skills
+        Learn GIT, create a few repositories on GitHub, share your code with other people
+        Know HTTP(S) protocol, request methods (GET, POST, PUT, PATCH, DELETE, OPTIONS)
+        Don't be afraid of using Google, Power Searching with Google
+        Read a few books about algorithms and data structures
+
+    Web Frameworks
+        Express.js
+        Adonis.js
+        Meteor.js
+        Nest.js
+        Sails.js
+        Koa.js
+        Loopback.js
+        egg.js
+        midway
+
+    Databases
+        Relational
+            SQL Server
+            PostgreSQL
+            MariaDB
+            MySQL
+        Cloud Databases
+            CosmosDB
+            DynamoDB
+        Search Engines
+            ElasticSearch
+            Solr
+            Sphinx
+        NoSQL
+            MongoDB
+            Redis
+            Apache Cassandra
+            LiteDB
+            RavenDB
+            CouchDB
+
+    Caching
+        Node-Cache
+        Distributed Cache
+            Redis
+            Memcached
+        Memory Cache
+
+    Logging
+        Log Frameworks
+            Node-Loggly
+            Winston
+            Node-Bunyan
+            Morgan
+        Log Management System
+            Sentry.io
+            Loggly.com
+
+    Template Engines
+        Mustache.js
+        Handlebars
+        EJS
+        Pug
+        Nunjunks.js
+
+    Real-Time Communication
+        Socket.IO
+
+    Typed Superset
+        TypeScript
+        Flow
+
+    API Clients
+        REST
+            Request
+            Node-Rest-Client
+            Axios
+        GraphQL
+
+    Good to Know
+        Async.js
+        PM2
+        Commander.js
+        Passport
+        Nodemailer
+        Marked
+        JSHint
+
+    Testing
+        Unit, Behavior, Integration Testing
+            Jest
+            Jasmine
+            Chai
+            Mocha
+            Enzyme
+            Sinon
+        E2E Testing
+            Selenium
+            Puppeteer
+
+    Task Scheduling
+        Agenda
+        Cronicle
+        Node-Schedule
+
+    MicroServices
+        Message-Broker
+            RabbitMQ
+            Apache Kafka
+            ActiveMQ
+            Azure Service Bus
+        Message-Bus
+            Distribus
+            BusMQ
+
+    Design-Patterns
+
+    JavaScript Algorithms and Data Structures
+
+Wrap Up
+
+If you think the roadmap can be improved, please do open a PR with any updates and submit any issues. Also, I will continue to improve this, so you might want to star this repository to revisit.
+
+Idea from : ASP.NET Core Developer Roadmap
+Contribution
+
+The roadmap is built using Draw.io. Project file can be found at Node.js-developer-roadmap.xml file. To modify it, open draw.io, click Open Existing Diagram and choose xml file with project. It will open the roadmap for you. Update it, upload and update the images in readme and create a PR (export as png with 400% zoom and minify that with Compressor.io).
+
+    Open a pull request with improvements
+    Discuss ideas in issues
+    Spread the word
