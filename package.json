@@ -1,0 +1,27 @@
+{
+  "name": "NodeJS-crash-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "lodash": "^4.17.19",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shreyyyy/NodeJS-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shreyyyy/NodeJS-crash-course/issues"
+  },
+  "homepage": "https://github.com/Shreyyyy/NodeJS-crash-course#readme"
+}
